@@ -5,5 +5,6 @@ Below are List of Modules
 #User Login
 #User search
 #Add Product
-#Basket verfication
-#Checout vefication
+#Basket verification
+#Checkout verification
+#Review Verification
